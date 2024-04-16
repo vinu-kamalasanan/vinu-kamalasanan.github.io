@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Vinu kamalasanan"
 description              : &description "AR/MR researcher with focus on influencing motion using 3D visualisation"
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "AR/MR researcher"
   location         : "Germany"
-  employer         : "Institute of Cartography and Geoinformatics, Leibniz University Hannover"
+  employer         : "IKG, Hannover University"
   #uri              : "https://www.ikg.uni-hannover.de/de/kamalasanan"
-  email            : "vinu.kamalasanan@ikg.uni-hannover.de" 
+  email            : "vinu.kamalasanan@hotmail.com" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
