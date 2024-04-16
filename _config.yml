@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Vinu Kamalasanan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AR/MR researcher"
   location         : "Germany"
   employer         : "Institute of Cartography and Geoinformatics, Leibniz University Hannover"
-  uri              : "https://www.ikg.uni-hannover.de/de/kamalasanan"
+  #uri              : "https://www.ikg.uni-hannover.de/de/kamalasanan"
   email            : "vinu.kamalasanan@ikg.uni-hannover.de" 
 
   # Academic websites
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/rahidraghav"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
