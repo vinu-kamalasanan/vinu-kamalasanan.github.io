@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geodesy  and Geoinformatics, Leibniz University, 2024 (expected)
-* M.Tech. Vellore Institute of Technology, 2014
-* B.Tech. Kerala University, 2011
+* Ph.D in Geodesy and Geoinformatics, Leibniz University Hannover, 2024 (expected)
+* Masters. Vellore Institute of Technology, 2014
+* Bachelors. Kerala University, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Robert Bosch, India 2019: Senior Software Engineer
+  * Sensor data based algorithm implementation
+  * Duties includes: 3D data visualisation and annotation, coding and code managment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Honeywell, India  2016: Software Engineer
+  * Edge device connectivity and user managment
+  * Duties included: web portal creation , code quality and testing
+
   
 Skills
 ======
