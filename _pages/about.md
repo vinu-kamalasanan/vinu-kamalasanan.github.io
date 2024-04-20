@@ -22,15 +22,17 @@ Research Interests:
 
 About my PhD project
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+In my current position at the Institute of Cartography and Geoinformatics (IKG), i work under the supervision of Prof Monika Sester on "Influencing walking behaviour in Shared Spaces using AR". The objective of the work is to AR influence to enhance walking safety by visualising active and passive content. 
 
+Active Influence
+------
+In this form of direct manipulation, the scene motion information is percieved using object detection and tracking algorithms. For example , after having detected walking persons in front of the Hololens, their future motion path is shown in 3D. A perso seeing this information using the Hololens could then decide to walk differently.
+
+
+Passive Influence
+------
 
 
 For more info
 ------
-More info about my works could also be found in [the guide](https://www.ikg.uni-hannover.de/de/kamalasanan/).
+More info about my works could also be found in [the link](https://www.ikg.uni-hannover.de/de/kamalasanan/).
