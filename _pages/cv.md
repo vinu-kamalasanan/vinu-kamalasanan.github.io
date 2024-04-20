@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MRTK and Hololens research mode perception
+* Trajectory data based motion estimation and surrogate safety
+  * Ego pedestrian detection and tracking 
+  * Post Enchroachment Time (PET) estimation
+  * Trajectory visualisation 
+* Virtual character design and motion simulation
 
 Publications
 ======
