@@ -13,10 +13,10 @@ I am a PhD candidate focused on augmenting visual information to influence human
 
 Research Interests:
 ======
-1.Motion perception for AR/MR 
-2.Communicating Safety using visualisation
-3.Virtually populated environments
-3.Web based user studies in AR 
+1. Motion perception for AR/MR 
+1. Communicating Safety using visualisation
+1. Virtually populated environments
+1. Web based user studies in AR 
 
 
 
@@ -33,4 +33,4 @@ About my PhD project
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about my works could also be found in [the guide](https://www.ikg.uni-hannover.de/de/kamalasanan/).
