@@ -31,6 +31,7 @@ In this form of direct manipulation, the scene motion information is percieved u
 
 Passive Influence
 ------
+To control walking, this form of influence is achieved by augmenting the scene with virtual infrastructure or occulded motion information. While the presences of virtual lanes could promote person to walk more predictively, the existence of otherwise occulded cyclists as moving 3D avatars could prompt people to be more cautious while crossing in shared spaces.  
 
 
 For more info
