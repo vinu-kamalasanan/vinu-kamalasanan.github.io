@@ -2,7 +2,7 @@
 title: "Behaviour Control with Augmented Reality Systems for Shared Spaces"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper explains a framework that could be required to influence walking in shared spaces'
+excerpt: 'This paper explains a framework that would be required to influence walking in shared spaces'
 date: 2020-10-25
 venue: 'The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences'
 paperurl: 'https://isprs-archives.copernicus.org/articles/XLIII-B4-2020/591/2020/isprs-archives-XLIII-B4-2020-591-2020.pdf'
