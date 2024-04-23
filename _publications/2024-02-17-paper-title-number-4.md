@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Mixed Reality Agent-Based Framework for Pedestrian-Cyclist Interaction"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This work introduces the use of mixed reality to achieve conflict avoidance interaction between walking pedestrians and moving virtual cyclists'
+date: 2022-10-17
+venue: 'IEEE International Symposium on Mixed and Augmented Reality Adjunt (ISMAR-Adjunct)'
+paperurl: 'https://www.ikg.uni-hannover.de/fileadmin/ikg/Forschung/publications/ISMAR2022_Adjunct_Mixed_Reality_Agent_Based_Framework_preprint.pdf'
+#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Participating in urban traffic is inherently risky for humans. Therefore, in psychology, behavioural studies have been using Virtual Reality (VR) to simulate and experiment with human behaviour. Safety critical interactions (e.g. conflict, collision or near collision) can be captured from the motion trajectories. However, the motion data in virtual settings is influenced by the modelling software used ato create the virtual world, which might fail to capture one-to-one interactions accurately (such as interactions between pedestrians and cyclists in mixed traffic). Our system paper proposes a Pedestrianin-the-Loop (PIL) Mixed Reality (MR) framework, where mobile virtual cyclist avatars co-exist with humans in a real-world outdoor space. Such a setting can be used to study a pedestrian subject, both viewing and interacting with moving holograms of cyclists in real traffic. The novelty of our approach is modelling virtual avatars as cognitive agents. To achieve this, we integrate agent-based models so that the virtual avatar can sense the environment and interact with the real user participating in the experiments. We demonstrate that this approach could contribute to effectively studying of pedestrian interactions. We also perform an evaluation to quantify the amount of trajectory error for our outdoor framework. For this, we compare the position data of a subject during an experiment to a proven benchmark or indoor motion capture. Additionally, an application of using the framework to demonstrate pedestrian dominance is presented
