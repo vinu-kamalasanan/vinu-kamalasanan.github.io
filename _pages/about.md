@@ -11,8 +11,8 @@ I am a PhD candidate focused on augmenting visual information to influence human
 
 News
 =====
-01/02/2025 Started postdoctoral research at MEC Lab, TU Clausthal
-01/09/2025 Completes research visit to INRIA, France and TU Delft, Netherlands
+- 01/02/2025 Started postdoctoral research at MEC Lab, TU Clausthal
+- 01/09/2025 Completes research visit to INRIA, France and TU Delft, Netherlands
 
 
 Research Interests:
