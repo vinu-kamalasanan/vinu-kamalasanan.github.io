@@ -9,6 +9,10 @@ redirect_from:
 
 I am a PhD candidate focused on augmenting visual information to influence human navigation. For this, I work with Unity, scene perception and 3D animations in my research. I have good experience with creating AR content for both MRTK applications and web based user studies. In my current research, i work with interdisciplinary collaborators (with psychologists and traffic planners e.t.c.,) resulting in publications focused on future mobility and traffic safety for vulnerable road users
 
+News
+=====
+01/02/2025 Started postdoctoral research at MEC Lab, TU Clausthal
+01/09/2025 Completes research visit to INRIA, France and TU Delft, Netherlands
 
 
 Research Interests:
